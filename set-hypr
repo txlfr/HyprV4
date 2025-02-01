@@ -26,7 +26,6 @@ prep_stage=(
     cliphist 
     python-requests 
     pacman-contrib
-    nwg-look
 )
 
 #software for nvidia GPU only
@@ -72,6 +71,7 @@ install_stage=(
     noto-fonts-emoji 
     lxappearance 
     xfce4-settings
+    nwg-look
     sddm
 )
 
